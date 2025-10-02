@@ -1,16 +1,26 @@
-## Hi there 👋
-
+# Hi there 👋  
 <!--
-**ari268/ari268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou a Ariane! ✨  
+💻 Entusiasta do mundo da computação, dando os primeiros passos e colecionando conhecimento todos os dias.  
+🚀 Sempre em busca de aprender mais e compartilhar descobertas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###  Atualmente estou aprendendo:
+- Python  
+- Java
+- SQL
+- HTML
+- Flask 🌐 
+- Git & GitHub 
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ari268&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ari268&layout=compact&theme=radical)  
+
+---
+
+### 🌐 Onde me encontrar:
+
+[![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:arianeveras40@gmail.com)
 -->
