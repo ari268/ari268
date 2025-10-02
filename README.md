@@ -1,5 +1,5 @@
 # Hi there 👋  
-<!--
+
 Sou a Ariane! ✨  
 💻 Entusiasta do mundo da computação, dando os primeiros passos e colecionando conhecimento todos os dias.  
 🚀 Sempre em busca de aprender mais e compartilhar descobertas.  
@@ -23,4 +23,3 @@ Sou a Ariane! ✨
 ### 🌐 Onde me encontrar:
 
 [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:arianeveras40@gmail.com)
--->
