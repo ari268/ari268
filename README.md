@@ -23,3 +23,4 @@ Sou a Ariane! ✨
 ### 🌐 Onde me encontrar:
 
 [![Gmail](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:arianeveras40@gmail.com)
+https://www.linkedin.com/in/ariane-veras-38b296211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
